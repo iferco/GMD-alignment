@@ -1,0 +1,50 @@
+﻿id;name;key;time_signature;ratio_negras_corcheas;muiñeira_type;location;lat;lon;classification;Province
+160;A Cruz de Lobeira;F major;6/8;0.3472222222222222;C1;Lobeira, Vilanova de Arousa, Pontevedra;425.632.279;-87.629.369;Rias Baixas;PO
+93;Muiñeira;C major;6/8;0.3333333333333333;C2;Navia de Suarna, Lugo;429.644.848;-695.678.939.929.841;Ancares;LU
+96;Muiñeira;C major;6/8;0.1276595744680851;C1;Vilarmide, A Pontenova, Lugo;432.789.245;-71.913.498;A Fonsagrada-Asturias;LU
+97;Muiñeira;C major;6/8;0.4126984126984127;C1;Vilarmide, A Pontenova, Lugo;432.789.245;-71.913.498;A Fonsagrada-Asturias;LU
+130;Muiñeira da Fonsagrada;C major;6/8;0.1195652173913043;C1;A Fonsagrada, Lugo;431.248.311;-70.676.605;A Fonsagrada-Asturias;LU
+260;Muiñeira da Fonsagrada;C major;6/8;0.0814814814814814;C2;A Fonsagrada, Lugo;431.248.311;-70.676.605;A Fonsagrada-Asturias;LU
+414;Muiñeira de Ancadeira;C major;6/8;0.2376237623762376;C2;A Fonsagrada, Lugo;431.248.311;-70.676.605;A Fonsagrada-Asturias;LU
+36;Muiñeira de Arabexo;C major;6/8;0.1176470588235294;C1;Arabexo, Val do Dubra, A Coruña;43.068.020.849.999.900;-8.657.671.483.625.100;Costa do Morte;CO
+42;Muiñeira de Boimoirto;C major;6/8;0.1195652173913043;C2;Boimorto, A Coruña;430.074.402;-81.269.242;Not classified;CO
+29;Muiñeira de Campolameiro;C major;6/8;0.0377358490566037;C1;Campolameiro, Pontevedra;425.422.912;-8.540.772.255.060.590;Rias Baixas;PO
+116;Muiñeira de Carballo;C major;6/8;0.1234567901234567;C2;Carballo, A Coruña;432.134.123;-86.891.286;Costa do Morte;CO
+78;Muiñeira de Eiriz;C major;6/8;0.4680851063829787;C2;Eiriz, Folgoso do Courel, Lugo;425.894.237;-72.220.799;Courel;LU
+263;Muiñeira de Cartelle;C major;6/8;0.3214285714285714;C2;Cartelle, Ourense;422.492.308;-80.688.652;Not classified;OU
+196;Muiñeira de Cernades;a minor;6/8;0.2105263157894736;C1;Pontevedra;426.075.172;-84.714.942;Rias Baixas;PO
+219;Muiñeira de Chantada;C major;6/8;0.3888888888888889;C2;Chantada, Lugo;426.089.783;-78.218.597;Not classified;LU
+9;Muiñeira de Coia;F major;6/8;0.2188841201716738;C1;Coia, Vigo, Pontevedra;422.182.924;-87.441.073;Rias Baixas;PO
+66;Muiñeira de Corme;C major;6/8;0.1475409836065573;C1;Corme, Ponteceso, A Coruña;432.649.815;-89.628.988;Costa do Morte;CO
+161;Muiñeira de Desiderio;C major;6/8;0.1176470588235294;C1;Vilarmide, A Pontenova, Lugo;432.789.245;-71.913.498;A Fonsagrada-Asturias;LU
+20;Muiñeira de Eirís;C major;6/8;0.09375;C2;Eirís, A Coruña, A Coruña;433.426.745;-8.395.072;A Coruña;CO
+121;Muiñeira de Florencio;F major;6/8;0.1529411764705882;C1;A Fonsagrada, Lugo;431.248.311;-70.676.605;A Fonsagrada-Asturias;LU
+413;Muiñeira de Folgoso;a minor;6/8;0.5135135135135135;C1;Folgoso do Courel, Lugo;425.882.486;-71.925.449;Courel;LU
+141;Muiñeira de Forcarei;G major;6/8;0.2266666666666666;C1;Forcarei, Pontevedra;425.900.309;-83.509.643;Rias Baixas;PO
+74;Muiñeira de Monterrei;a minor;6/8;0.2131147540983606;C1;Monterrei, Ourense;419.467.657;-74.491.474;Portuguese Border;OU
+19;Muiñeira de Montrove;C major;6/8;0.3818181818181818;C2;Montrove, Cambre, A Coruña;432.803.751;-83.297.129;A Coruña;CO
+287;Muiñeira de Negros;C major;6/8;0.3444444444444444;C1;Negros, Redondela, Pontevedra;422.598.627;-86.216.602;Rias Baixas;PO
+148;Muiñeira de Vilar de Conforto;C major;6/8;0.1494252873563218;C2;Vilar de Conforto, A Pontenova, Lugo;433.604.703;-71.525.053.712.882.100;A Fonsagrada-Asturias;LU
+126;Muiñeira de Oliveira;C major;6/8;0.96;;Santiago de Oliveira, Ponteareas, Pontevedra;421.822.609;-84.523.004;Rias Baixas;PO
+273;Muiñeira de Ourense;C major;6/8;0.0384615384615384;C1;Ourense, Ourense;423.436.415;-78.674.242;Not classified;OU
+362;Muiñeira de Parada de Achas;c minor;6/8;0.1506849315068493;;Parada de Achas, A Cañiza, Pontevedra;42.173.403;-830.473.225;Rias Baixas;PO
+18;Muiñeira de Pastoriza;C major;6/8;0.0571428571428571;C1;Pastoriza, Lugo;433.000.026;-73.511.022;A Fonsagrada-Asturias;LU
+81;Muiñeira de Pazos de Borbén;C major;6/8;19.047.619.047.619.000;C2;Pazos de Borbén, Pontevedra;422.849.584;-8.530.047.868.320.790;Rias Baixas;PO
+52;Muiñeira de Pol;C major;6/8;0.1294117647058823;C1;Pol, Lugo;4.314.281.665;-7.321.889.132.285.170;A Fonsagrada-Asturias;LU
+135;Muiñeira de Ponte Maceira;C major;6/8;0.0;C2;Ponte Maceira, Negreira, A Coruña;42.905.445;-86.962.309;Costa do Morte;CO
+2;Muiñeira de Quindous;C major;6/8;0.3125;C1;Quindous, Cervantes, Lugo;428.556.407;-69.957.933;Ancares;LU
+92;Muiñeira de San Román de Cervantes;C major;6/8;0.3068181818181818;C1;San Román, Cervantes, Lugo;42.853.731;-70.549.167;Ancares;LU
+330;Muiñeira de Valdeferreiros;C major;6/8;0.112;C1;Valdeferreiros, Ibias, Asturies;430.289.283;-69.803.187;Ancares;LU
+6;Muiñeira de Ventosa;C major;6/8;0.16;C1;Ventosa, Pontevedra;427.366.955;-797.617;Not classified;PO
+282;Muiñeira de Vilanova;C major;6/8;0.1212121212121212;C2;Vilanova, Pontevedra;42.592.833;-81.135.799;Not classified;PO
+450;Muiñeira de Vilarmide;C major;6/8;0.0920245398773006;C2;Vilarmide, A Pontenova, Lugo;432.789.245;-71.913.498;A Fonsagrada-Asturias;LU
+140;Muiñeira de Xinzo;F major;6/8;0.1019108280254777;C1;Xinzo de Limia, Ourense;420.637.882;-77.245.498;Portuguese Border;OU
+249;Muiñeira do Areal;C major;6/8;0.134453781512605;C1;Lugo;430.462.247;-74.739.921;Not classified;LU
+312;Muiñeira do Chao;C major;6/8;0.144927536231884;C1;O Chao, O Barco de Valdeorras, Ourense;424.189.993;-69.817.358;Not classified;OU
+341;Muiñeira de Ramelle;c minor;6/8;0.108695652173913;C2;Ramelle, Friol, Lugo;430.338.813;-78.263.409;Not classified;LU
+203;Muiñeira do Condado;C major;6/8;0.1063829787234042;C1;O Condado, Pontevedra;4.217.671.145;-8.488.781.069.275.160;Rias Baixas;PO
+416;Muiñeira do Hío;C major;6/8;0.1785714285714285;C1;Hío, Cangas, Pontevedra;422.728.376;-8.841.498;Rias Baixas;PO
+317;Muiñeira do Molete;C major;6/8;0.2985074626865671;C2;Pontevedra;426.075.172;-84.714.942;Rias Baixas;PO
+123;Muliñeira de Romeor;C major;6/8;0.0744680851063829;C1;Romeor, Folgoso do Courel, Lugo;426.407.659;-70.946.001;Courel;LU
+173;Ribeirana de Pontevedra;C major;6/8;0.0625;C2;Pontevedra, Pontevedra;424.318.876;-86.431.592;Rias Baixas;PO
+445;Ribeirana de Redondela;C major;6/8;0.2419354838709677;C1;Redondela, Pontevedra;42.284.221;-86.085.992;Rias Baixas;PO
